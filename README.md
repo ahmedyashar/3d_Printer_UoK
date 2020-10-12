@@ -5,6 +5,7 @@
 `by Dr Ahmed YASHAR`
 
 ## 1. Introduction and Motivation 
+https://www.youtube.com/watch?v=eIVl3gmswhM&ab_channel=CoolGadgets%26Stuff
 
 ## 2. Aim 
 
@@ -84,3 +85,7 @@ heavy constructions such as building  required a fixed base. This means the nozz
 ## 7. Budgets 
 
 ## 8. Conclusions
+## 9. References
+https://www.sciencedirect.com/science/article/abs/pii/S0260877417300730
+https://www.sciencedirect.com/science/article/pii/S1877705816311651
+https://www.sciencedirect.com/science/article/pii/S2468067217300822
