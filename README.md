@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=eIVl3gmswhM&ab_channel=CoolGadgets%26Stuff
    ​	b. Material properties of wall strength and heat transfer.
    ​	c. fusibility Complex architect.  
 
-###### 3. Objectives 
+## 3. Objectives 
 
 1. Implementing 3D Printing technology in small scale construction machine. 
 2. The main plane is to study the suitable type of mechanism such as Cartesian, cylindrical or SCARA. 
