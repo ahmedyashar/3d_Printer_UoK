@@ -7,6 +7,9 @@
 ## 1. Introduction and Motivation 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=eIVl3gmswhM/0.jpg)](https://www.youtube.com/watch?v=eIVl3gmswhM)
 
+[![Alt text](https://img.youtube.com/watch?v=eIVl3gmswhM/0.jpg)](https://www.youtube.com/watch?v=eIVl3gmswhM)
+
+
 ## 2. Aim 
 
 1. The aim of this project is to build a prototype of a House 3D printer.
