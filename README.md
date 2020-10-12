@@ -5,7 +5,7 @@
 `by Dr Ahmed YASHAR`
 
 ## 1. Introduction and Motivation 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=eIVl3gmswhM&ab_channel=CoolGadgets%26Stuff)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=eIVl3gmswhM&ab_channel=CoolGadgets%26Stuff/0.jpg)](https://www.youtube.com/watch?v=eIVl3gmswhM&ab_channel=CoolGadgets%26Stuff)
 
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/eIVl3gmswhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
