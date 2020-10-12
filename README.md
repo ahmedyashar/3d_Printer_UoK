@@ -5,14 +5,7 @@
 `by Dr Ahmed YASHAR`
 
 ## 1. Introduction and Motivation 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=eIVl3gmswhM/0.jpg)](https://www.youtube.com/watch?v=eIVl3gmswhM)
-
-[![Alt text](https://img.youtube.com/watch?v=eIVl3gmswhM/0.jpg)](https://www.youtube.com/watch?v=eIVl3gmswhM)
-
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
+[![](http://img.youtube.com/vi/eIVl3gmswhM/0.jpg)](http://www.youtube.com/watch?v=eIVl3gmswhM "")
 
 
 ## 2. Aim 
