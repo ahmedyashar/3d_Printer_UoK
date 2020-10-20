@@ -5,7 +5,7 @@
 `by Dr Ahmed YASHAR`
 
 ## 1. Introduction and Motivation 
-[![](http://img.youtube.com/vi/eIVl3gmswhM/0.jpg)](http://www.youtube.com/watch?v=eIVl3gmswhM "")
+http://www.youtube.com/watch?v=eIVl3gmswhM
 
 
 ## 2. Aim 
@@ -33,6 +33,7 @@
 ### `Mechanical Parts`
 
 1. #### Extruder 
+https://www.sciencedirect.com/science/article/abs/pii/S0950061817324546
 
 2. #### Arms and Slides 
 
